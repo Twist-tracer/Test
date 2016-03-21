@@ -1,6 +1,0 @@
-print("hellow world");
-print("hi everybody");
-
-function exit ($id) {
-    return false;
-}
