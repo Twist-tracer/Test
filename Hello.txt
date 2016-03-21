@@ -1,0 +1,10 @@
+print("hellow world");
+print("hi everybody");
+
+function login () {
+    return true;
+}
+
+function exit ($id) {
+    return false;
+}
