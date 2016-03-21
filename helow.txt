@@ -1,2 +1,6 @@
 print("hellow world");
-prinr("hi everybody")
+print("hi everybody");
+
+function exit ($id) {
+    return false;
+}
