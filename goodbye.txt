@@ -1,1 +1,4 @@
 Goodbye Peoples!!!
+
+session_destroy();
+exit;
