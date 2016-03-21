@@ -1,5 +1,5 @@
-print("hellow world");
-print("hi everybody");
+print("hellow world;");
+print("hi everybody;");
 
 print("glad ti see you");
 
