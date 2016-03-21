@@ -1,6 +1,7 @@
 print("hellow world");
 print("hi everybody");
 print("glad ti see you");
+print("I am a pity, it wil be a conflict now");
 
 function login ($id) {
     return true;
