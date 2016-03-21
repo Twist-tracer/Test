@@ -1,12 +1,7 @@
 print("hellow world;");
 print("hi everybody;");
+print("glad ti see you;");
 
-print("glad ti see you");
+function login () {return true;}
 
-function login () {
-    return true;
-}
-
-function exit ($id) {
-    return false;
-}
+function exit ($id) {return false;}
