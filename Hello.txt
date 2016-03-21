@@ -1,12 +1,7 @@
-print("hellow world");
-print("hi everybody");
-print("glad ti see you");
-print("I am a pity, it wil be a conflict now");
+print("hellow world;");
+print("hi everybody;");
+print("glad ti see you;");
 
-function login ($id) {
-    return true;
-}
+function login ($id) {return true;}
 
-function exit ($id) {
-    return false;
-}
+function exit ($id) {return false;}
